@@ -58,6 +58,11 @@ body
     align-items: center;
 }
 
+[class="app"]
+{
+ width:100%;
+}
+
 header h2{
     margin: 50px 0px 100px 0px;
 }
